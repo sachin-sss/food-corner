@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=00F70E&multiline=true&repeat=false&width=435&lines=Food+Corner+Website;By+using+HTML5+and+CSS%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=00F70E&multiline=true&repeat=false&width=435&height=60&lines=Food+Corner+Website;By+using+HTML5+and+CSS3)](https://git.io/typing-svg)
 
 Food Corner is a simple, elegant single-page website designed to showcase your food corner's menu and essential information.
 It is built using HTML and CSS, this project is perfect for small food businesses looking for an online presence.
